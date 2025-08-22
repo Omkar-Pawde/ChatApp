@@ -1,0 +1,21 @@
+body{
+    margin-left: 20px;
+}
+
+.chat{
+    background-color: aliceblue;
+    border-radius: 16px;
+    padding: 20px;
+    display: inline-block;
+}
+
+.msg{
+    background-color: dodgerblue;
+    color: blue;
+    padding: 5px 15px;
+    border-radius: 16px;
+}
+
+/* .delete{
+
+} */
